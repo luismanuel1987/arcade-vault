@@ -34,6 +34,9 @@ No test runner is configured yet.
 - For instant client navigations, export `unstable_instant` from the route and wrap uncached data in `<Suspense>`. Read `node_modules/next/dist/docs/01-app/02-guides/instant-navigation.md` before touching navigation performance.
 - API routes live in `app/**/route.ts` (not `pages/api/`).
 
+## Skills
+Usa siempre /frontend-design para diseñar la interfaz de usuario.
+
 ## Architecture
 
 ```
