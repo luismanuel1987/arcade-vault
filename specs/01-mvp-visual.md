@@ -1,6 +1,6 @@
 ---
 id: 01-mvp-visual
-state: Aprobado
+state: Implementado
 dependencies: ninguna
 date: 2026-05-22
 ---
